@@ -75,7 +75,7 @@
             this.lbl_GTurkce.Size = new System.Drawing.Size(96, 19);
             this.lbl_GTurkce.TabIndex = 2;
             this.lbl_GTurkce.Text = "Türkçe Gelen";
-            this.lbl_GTurkce.Click += new System.EventHandler(this.lbl_GTurkce_Click);
+            //this.lbl_GTurkce.Click += new System.EventHandler(this.lbl_GTurkce_Click);
             // 
             // lbl_GİngilizceC
             // 
@@ -145,7 +145,7 @@
             this.lbl_KOTurkce.Size = new System.Drawing.Size(13, 18);
             this.lbl_KOTurkce.TabIndex = 9;
             this.lbl_KOTurkce.Text = ")";
-            this.lbl_KOTurkce.Click += new System.EventHandler(this.lbl_KOTurkce_Click);
+            //this.lbl_KOTurkce.Click += new System.EventHandler(this.lbl_KOTurkce_Click);
             // 
             // lbl_KOİngilizce
             // 

@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
 
+//Veritabanı bağlantısını bu sınıf üzerinden private olarak oluşturuldu.
+
 namespace DilOgrenmeApp.DAL
 {
    public class DBHelper

@@ -31,9 +31,7 @@ namespace DilOgrenmeApp.UI.WinForm
             lbl_GTurkceC.Text = kelimeGelen[0].turkce;
             lbl_GSozcukTuru.Text = kelimeGelen[0].sozcukturu;
             lbl_GKategori.Text = kelimeGelen[0].kategori;
-            //Zeki
             pictureBox1.Image = Image.FromFile(kelimeGelen[0].fotoyolu);
-            //
         }
 
         private void btn_Ogren_Click(object sender, EventArgs e)
@@ -45,9 +43,7 @@ namespace DilOgrenmeApp.UI.WinForm
             lbl_GTurkceC.Text = kelimeGelen[0].turkce;
             lbl_GSozcukTuru.Text = kelimeGelen[0].sozcukturu;
             lbl_GKategori.Text = kelimeGelen[0].kategori;
-            //
             pictureBox1.Image = Image.FromFile(kelimeGelen[0].fotoyolu);
-            //
             _kelime.turkce = lbl_GTurkce.Text;
             bll.AsamaNoArttir(_kelime);
             _kelime.sormaTarihi = DateTime.Now.AddDays(1).ToShortDateString();
@@ -56,10 +52,7 @@ namespace DilOgrenmeApp.UI.WinForm
 
         }
 
-        private void lbl_KOTurkce_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void lbl_GTurkce_Click(object sender, EventArgs e)
         {

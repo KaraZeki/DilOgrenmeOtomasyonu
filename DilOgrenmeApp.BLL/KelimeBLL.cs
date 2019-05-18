@@ -7,7 +7,7 @@ using System.Data;
 using DilOgrenmeApp.DAL;
 using DilOgrenmeApp.Entity;
 
-
+//Bu sınıf KelimeHavuzuDALL sınıfındaki metotları return ediyor. 
 namespace DilOgrenmeApp.BLL
 {
    public class KelimeBLL

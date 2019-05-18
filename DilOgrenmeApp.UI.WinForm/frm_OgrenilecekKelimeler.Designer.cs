@@ -43,12 +43,14 @@
             // 
             // btn_OgrenileceklereEkle
             // 
-            this.btn_OgrenileceklereEkle.Location = new System.Drawing.Point(12, 337);
+            this.btn_OgrenileceklereEkle.BackColor = System.Drawing.Color.SlateGray;
+            this.btn_OgrenileceklereEkle.ForeColor = System.Drawing.Color.Black;
+            this.btn_OgrenileceklereEkle.Location = new System.Drawing.Point(88, 337);
             this.btn_OgrenileceklereEkle.Name = "btn_OgrenileceklereEkle";
-            this.btn_OgrenileceklereEkle.Size = new System.Drawing.Size(142, 23);
+            this.btn_OgrenileceklereEkle.Size = new System.Drawing.Size(161, 23);
             this.btn_OgrenileceklereEkle.TabIndex = 2;
             this.btn_OgrenileceklereEkle.Text = "Öğreneceklerime Ekle";
-            this.btn_OgrenileceklereEkle.UseVisualStyleBackColor = true;
+            this.btn_OgrenileceklereEkle.UseVisualStyleBackColor = false;
             this.btn_OgrenileceklereEkle.Click += new System.EventHandler(this.btn_OgrenileceklereEkle_Click);
             // 
             // frm_OgrenilecekKelimeler
