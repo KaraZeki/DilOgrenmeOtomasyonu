@@ -8,6 +8,7 @@ using System.Data.SqlClient;
 using DilOgrenmeApp.Entity;
 using System.Text.RegularExpressions;
 
+//Tüm Veritabanı Komutları bu sınınta gerçekleşiyor.
 
 namespace DilOgrenmeApp.DAL
 {

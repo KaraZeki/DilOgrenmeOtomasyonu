@@ -109,7 +109,6 @@ namespace DilOgrenmeApp.UI.WinForm
                 tempKelime.RemoveAt(sayi);
 
             }
-            //rastGetir[4] = tempKelime[0];
 
             rdbtn_A.Text = rastGetir[0];
             rdbtn_B.Text = rastGetir[1];
@@ -120,8 +119,10 @@ namespace DilOgrenmeApp.UI.WinForm
 
         private void frm_AnaSayfa_Load(object sender, EventArgs e)
         {
+            
             cmbbox_Aylik.Visible = false;
             cmbbox_Yillik.Visible = false;
+            //Ramdom olarak  seçilen kelime ve özellikleri ilgili kısımlara ekleniyor.
             kelimeGelen = bll.GetRandItem(_kelime);
             label1.Text = kelimeGelen[0].ingilizce;
             dogrucevap = _kelime.turkce;
@@ -193,12 +194,12 @@ namespace DilOgrenmeApp.UI.WinForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Zeki
+            
             Aylik_Liste = bll.AylikListe();
             string[] Stun = new string[Aylik_Liste.Rows.Count];
             string[] Satır = new string[Aylik_Liste.Rows.Count];
 
-
+            //Aylık_Liste DataTable'deki veriler Satır ve Stunlarına göre ayrı ayrı ilgli (Satır-Stun) dizilere aktarılıyor
             for (int i = 0; i < Aylik_Liste.Rows.Count; i++)
             {
                 Stun[i] = Aylik_Liste.Rows[i][1].ToString();
@@ -216,11 +217,10 @@ namespace DilOgrenmeApp.UI.WinForm
                 Satır[i] = Aylik_Liste.Rows[i][0].ToString();
             }
 
+            //Satır ve Stun Dizilerindeki veriler chart1 grafiğine ekleniyor.
             for (int i = 1; i < Aylik_Liste.Rows.Count; i++)
             {
                 chart1.Series["Yıllık"].Points.AddXY(Satır[i].ToString(), double.Parse(Stun[i]));
-                //  chart1.Series["Aylik"].Points.AddXY(Convert.ToDouble(Aylik_Liste.Rows[i]), double.Parse(Aylik_Liste.Columns[2].ToString() ) );
-
             }
         }
     }

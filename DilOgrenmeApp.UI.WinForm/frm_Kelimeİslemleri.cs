@@ -65,9 +65,7 @@ namespace DilOgrenmeApp.UI.WinForm
 
         private void frm_Kelimeİslemleri_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'dilOgrenmeOtomasyonDataSet3.KelimeHavuzu' table. You can move, or remove it, as needed.
             this.kelimeHavuzuTableAdapter2.Fill(this.dilOgrenmeOtomasyonDataSet3.KelimeHavuzu);
-           
         }
     }
 }

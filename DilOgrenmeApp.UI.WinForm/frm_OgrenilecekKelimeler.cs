@@ -42,6 +42,7 @@ namespace DilOgrenmeApp.UI.WinForm
             Console.WriteLine(dtgrid_OgrenilecekKelimeler.CurrentRow.Cells["turkce"].Value.ToString());
             _kelime.turkce = dtgrid_OgrenilecekKelimeler.CurrentRow.Cells["turkce"].Value.ToString();
             bll.AsamaNoArttir(_kelime);
+            MessageBox.Show("İşlem Başarılı");
         }
     }
 }
