@@ -1,0 +1,27 @@
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.BLL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.BLL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.DAL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.DAL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.Entity.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.BLL.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.BLL.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.DAL.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.Entity.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.DAL.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.Entity.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.csprojResolveAssemblyReference.cache
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.BLL.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.BLL.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.DAL.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.Entity.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.DAL.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\bin\Debug\DilOgrenmeApp.Entity.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.BLL\obj\Debug\DilOgrenmeApp.BLL.pdb

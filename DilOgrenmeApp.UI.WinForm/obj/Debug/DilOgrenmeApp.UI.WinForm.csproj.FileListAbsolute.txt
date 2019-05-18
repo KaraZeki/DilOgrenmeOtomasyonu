@@ -1,0 +1,262 @@
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.exe.config
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.Frm_KelimeHavuzu.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.Properties.Resources.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.csproj.GenerateResource.Cache
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.exe
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.BLL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.DAL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.BLL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.DAL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.exe
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_AnaSayfa.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_GenelSayfa.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_KelimeOgren.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_OgrendigimKelimeler.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_OgrenilecekKelimeler.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.exe.licenses
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_Kelimeİslemleri.resources
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.Entity.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.exe.config
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.exe
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.exe
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.BLL.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.Entity.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.DAL.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.BLL.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.Entity.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Data.v18.1.xml
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Utils.v18.1.xml
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraBars.v18.1.xml
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.DAL.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.csprojResolveAssemblyReference.cache
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_AnaSayfa.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_GenelSayfa.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_KelimeHavuzu.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_KelimeOgren.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_Kelimeİslemleri.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_OgrendigimKelimeler.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_OgrenilecekKelimeler.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.Properties.Resources.resources
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.csproj.GenerateResource.Cache
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.exe.licenses
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.exe.config
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.exe
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.exe
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.UI.WinForm.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.BLL.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.Entity.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.DAL.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.BLL.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.Entity.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DilOgrenmeApp.DAL.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_AnaSayfa.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_GenelSayfa.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_KelimeHavuzu.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_KelimeOgren.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_Kelimeİslemleri.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_OgrendigimKelimeler.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.frm_OgrenilecekKelimeler.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.Properties.Resources.resources
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.csproj.GenerateResource.Cache
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\obj\Debug\DilOgrenmeApp.UI.WinForm.exe.licenses
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.UI.WinForm\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll

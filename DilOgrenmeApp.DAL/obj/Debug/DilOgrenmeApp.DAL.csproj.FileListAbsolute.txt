@@ -1,0 +1,21 @@
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.DAL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.DAL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.Entity.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.DAL.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.DAL.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.Entity.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.Entity.pdb
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.csprojResolveAssemblyReference.cache
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.dll
+G:\proje Son\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.DAL.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.DAL.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.Entity.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.DAL\bin\Debug\DilOgrenmeApp.Entity.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.DAL\obj\Debug\DilOgrenmeApp.DAL.pdb

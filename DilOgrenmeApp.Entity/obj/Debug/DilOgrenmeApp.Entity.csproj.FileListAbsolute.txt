@@ -1,0 +1,10 @@
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.Entity\bin\Debug\DilOgrenmeApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.Entity\bin\Debug\DilOgrenmeApp.Entity.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.Entity\obj\Debug\DilOgrenmeApp.Entity.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.Entity\obj\Debug\DilOgrenmeApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\DilOgrenmeApp\DilOgrenmeApp.Entity\obj\Debug\DilOgrenmeApp.Entity.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.Entity\bin\Debug\DilOgrenmeApp.Entity.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.Entity\bin\Debug\DilOgrenmeApp.Entity.pdb
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.Entity\obj\Debug\DilOgrenmeApp.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.Entity\obj\Debug\DilOgrenmeApp.Entity.dll
+C:\Users\Zeki KARA\Desktop\DilÖğrenmeOtomasyon\Yedek 2\DilOgrenmeApp\DilOgrenmeApp.Entity\obj\Debug\DilOgrenmeApp.Entity.pdb
